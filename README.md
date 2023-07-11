@@ -2,11 +2,12 @@
 
 Current Projects
 - C++ command line adventure game
-- Collaborative horror short film
-
 Previous Projects
 - Interactive Chatbot
 - Single elimination bracket analyzer
+- CareKit Mental Wellness App
+- Food Review Website
+- Chess Robot
 
 <!--
 **mlatonzea/mlatonzea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
