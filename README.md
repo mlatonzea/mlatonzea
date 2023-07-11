@@ -2,6 +2,7 @@
 
 Current Projects
 - C++ command line adventure game
+<!-- -->
 Previous Projects
 - Interactive Chatbot
 - Single elimination bracket analyzer
